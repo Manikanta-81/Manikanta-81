@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg)]
+[![MasterHead]([https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg))]
 <h1 align="center">Hi 👋, I'm Manikanta Vaddi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/026/344/414/non_2x/happy-man-with-laptop-flat-line-concept-spot-illustration-programmer-coding-2d-cartoon-outline-character-on-white-for-web-ui-design-freelance-editable-isolated-color-hero-image-vector.jpg">
