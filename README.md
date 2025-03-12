@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/manikanta-vaddi-2352b0287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manikanta-vaddi-2352b0287" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/manispeakss.0?igsh=mwt1dmv2cnbwnxrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/manispeakss.0?igsh=mwt1dmv2cnbwnxrz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucw_rh9vf5tbv79qlr9tiadq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucw_rh9vf5tbv79qlr9tiadq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@manispeaks25?si=k25a4c2oszg4sher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@manispeaks25?si=k25a4c2oszg4sher" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/qt755co2oq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qt755co2oq" height="30" width="40" /></a>
 </p>
 
