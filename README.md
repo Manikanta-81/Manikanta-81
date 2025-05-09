@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I'm currently working on **Meta What'sApp Chatbot & Authentication project Backend work**
+
 - 🌱 I’m currently learning **React, java**
 
-- 💬 Ask me about **MERN, JAVA**
+- 💬 Ask me about **MERN, JAVA  Git**
 
 - 📫 How to reach me **vaddimanikanta2002@gmail.com**
 
