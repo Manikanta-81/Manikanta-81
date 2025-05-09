@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Manikanta Vaddi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/026/344/414/non_2x/happy-man-with-laptop-flat-line-concept-spot-illustration-programmer-coding-2d-cartoon-outline-character-on-white-for-web-ui-design-freelance-editable-isolated-color-hero-image-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikanta-81&label=Profile%20views&color=0e75b6&style=flat" alt="manikanta-81" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, java**
 
-- 💬 Ask me about **MERN, JAVA  Git**
+- 💬 Ask me about **MERN, JAVA,  Git**
 
 - 📫 How to reach me **vaddimanikanta2002@gmail.com**
 
