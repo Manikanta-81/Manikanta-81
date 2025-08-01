@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vaddimanikanta2002@gmail.com**
 
-- Check My Recent Freelance Project **laxmihospitalityservices.in**
+- Check My Recent Freelance Project **https://laxmihospitalityservices.in/**
 
 
 <h3 align="left">Connect with me:</h3>
