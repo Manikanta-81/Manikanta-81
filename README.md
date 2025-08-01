@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikanta Vaddi</h1>
-<h3 align="center">A passionate Full Strack Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikanta-81&label=Profile%20views&color=0e75b6&style=flat" alt="manikanta-81" /> </p>
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about **MERN, JAVA, GIT**
 
 - 📫 How to reach me **vaddimanikanta2002@gmail.com**
+
+- Check My Recent Freelance Project **laxmihospitalityservices.in**
 
 
 <h3 align="left">Connect with me:</h3>
